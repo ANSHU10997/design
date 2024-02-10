@@ -1,6 +1,6 @@
 const Nav = () => {
   return (
-    <header className="fixed left-0 top-0 w-full px-16 py-[10px] backdrop-blur-md max-md:px-8">
+    <header className="fixed left-0 top-0 z-[100] w-full px-16 py-[10px] backdrop-blur-md max-md:px-8">
       <nav className="flex items-center justify-between">
         <div>
           <a href="/">
